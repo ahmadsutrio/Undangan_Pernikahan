@@ -40,7 +40,7 @@
                 <br> Di Kediaman Mempelai Wanita
             </p>
             <p class="mt-14 mx-5">
-                Desa Rawa Sekip, Kec. Kuala Cenaku <br> Kab. Indragiri Hulu
+                Desa Sari Mulya, Pangkalan Lesung, <br> Pelalawan
             </p>
 
             <button class=" mt-5 mx-auto mb-12 text-white bg-timeline flex items-center justify-center rounded-lg gap-2 px-5 py-2 text-sm">
