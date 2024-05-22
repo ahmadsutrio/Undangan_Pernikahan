@@ -13,12 +13,14 @@
         <div class="" id="welcome">
             <?php include('components/welcome.php'); ?>
         </div>
-        <?php include('components/timeline.php'); ?>
-        <?php include('components/savedate.php'); ?>
-        <?php include('components/pesan.php'); ?>
-        <?php include('components/kotakPesan.php'); ?>
-        <?php include('components/gift.php'); ?>
-        <?php include('components/footer.php'); ?>
+        <div class="hidden" id="tampilan">
+            <?php include('components/timeline.php'); ?>
+            <?php include('components/savedate.php'); ?>
+            <?php include('components/pesan.php'); ?>
+            <?php include('components/kotakPesan.php'); ?>
+            <?php include('components/gift.php'); ?>
+            <?php include('components/footer.php'); ?>
+        </div>
     </section>
 
     <script src="public/js/main.js"></script>
