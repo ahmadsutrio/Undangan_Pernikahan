@@ -1,4 +1,4 @@
-<div class="relative w-full h-[200vh] ">
+<div class="relative w-full h-[150vh] ">
     <img src="../public/img/daun-timeline-1.webp" alt="" class="absolute  top-0 -left-4 z-10">
     <div class="absolute top-0 left-0 right-0 flex justify-center ">
         <img src="../public/img/daun-timeline-2.webp" alt="" class="absolute w-40 z-10">
@@ -60,24 +60,6 @@
         </div>
     </div>
 
-    <div class="absolute text-center top-[65rem] px-5 left-0 right-0 flex justify-center flex-col">
-        <img src="../public/img/basmallah.png" alt="" class="mx-auto">
-        <p class="text-center mt-10">Assalamu’alaikum Wr. Wb.Tanpa mengurangi rasa hormat, kami mengundang Bapak/Ibu/Saudara/i serta kerabat sekalian untuk menghadiri acara pernikahan kami</p>
-        <h4 class="mt-10 text-primary font-great-vebes text-[2.5rem]">
-            Saputri, S.Pd
-        </h4>
-        <p class="mt-5">
-            Putri dari Bapak M. Diran & Samsidar
-        </p>
-        <h4 class="mt-8 font-great-vebes text-[3.7rem] text-primary">
-            &
-        </h4>
-        <h4 class="mt-2 font-great-vebes text-[2.3rem] text-primary">
-            Rohmat Supriyanto, S.Pi
-        </h4>
-        <p class="mt-4">
-            Putri dari Bapak M. Paidin & Ibu Sujirah
-        </p>
-    </div>
+ 
 
 </div>

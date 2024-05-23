@@ -1,6 +1,6 @@
 <div class="flex  relative flex-col mt-5 justify-center  text-center text-paragraph text-sm font-poppins ">
 
-    <p class="">Menjadi sebuah kebahagiaan bagi kami apabila bapak/ibu/saudara/i berkenan hadir dalam hari bahagia ini. Terimakasih, atas segala ucapan, doa, dan perhatian yang diberikan.</p>
+    <p class="px-5">Menjadi sebuah kebahagiaan bagi kami apabila bapak/ibu/saudara/i berkenan hadir dalam hari bahagia ini. Terimakasih, atas segala ucapan, doa, dan perhatian yang diberikan.</p>
 
     <p class="font-semibold mt-7">See you on our big day!</p>
 

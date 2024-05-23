@@ -27,6 +27,7 @@
                 </div>
                 <div class="hidden relative" id="tampilan">
                     <?php include('components/timeline.php'); ?>
+                    <?php include('components/pembukaan.php'); ?>
                     <?php include('components/savedate.php'); ?>
                     <?php include('components/pesan.php'); ?>
                     <?php include('components/kotakPesan.php'); ?>
