@@ -103,6 +103,11 @@ function lihatLokasi(){
   console.log('success');
 }
 
+function lihatRekening(){
+  let rekening = document.getElementById('rekening');
+  rekening.classList.toggle('hidden')
+}
+
 
 
 // Panggil fungsi getMessage setiap 3 detik menggunakan setInterval

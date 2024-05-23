@@ -10,16 +10,16 @@
 
 <body>
     <div class="flex relative overflow-hidden top-0 left-0 right-0 bottom-0 ">
-        <div class="fixed left-0 w-[calc(100%_-_400px)] hidden  lg:flex justify-center items-center ">
+        <div class="lg:fixed lg:left-0 lg:w-[calc(100%_-_400px)] hidden lg:flex justify-center items-center ">
             <img src="/public/img/background.webp" alt="" class="w-full h-screen">
-
             <div class="absolute top-0 left-0 right-0 bottom-0">
                 <div class="flex justify-center items-center">
                     <img src="/public/img/iconic.webp" alt="" class="h-screen">
                 </div>
             </div>
-
         </div>
+
+
         <div class="w-[400px] lg:fixed lg:right-0 md:mx-auto h-screen overflow-y-auto border overflow-x-hidden  bottom-0 ">
             <section class="max-w-[400px] min-w-[360px]   ">
                 <div class="" id="welcome">

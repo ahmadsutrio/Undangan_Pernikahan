@@ -1,4 +1,4 @@
-<div class="flex  relative flex-col mt-10 justify-center  text-center text-paragraph text-sm font-poppins ">
+<div class="flex  relative flex-col mt-5 justify-center  text-center text-paragraph text-sm font-poppins ">
 
     <p class="">Menjadi sebuah kebahagiaan bagi kami apabila bapak/ibu/saudara/i berkenan hadir dalam hari bahagia ini. Terimakasih, atas segala ucapan, doa, dan perhatian yang diberikan.</p>
 
