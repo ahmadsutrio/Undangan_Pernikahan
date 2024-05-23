@@ -43,9 +43,18 @@
                 Desa Sari Mulya, Pangkalan Lesung, <br> Pelalawan
             </p>
 
-            <button class=" mt-5 mx-auto mb-12 text-white bg-timeline flex items-center justify-center rounded-lg gap-2 px-5 py-2 text-sm">
+            <button class=" mt-5 mx-auto mb-12 text-white bg-timeline flex items-center justify-center rounded-lg gap-2 px-5 py-2 text-sm" onclick="lihatLokasi()">
                 <img src="../public/icons/bx_map.svg" alt="" class=""> Lihat Lokasi
             </button>
+
+            <div class="px-10 bg-slate-800/50 hidden backdrop-blur-lg z-50 absolute top-0 left-0 right-0 bottom-0 flex justify-center items-center flex-col" id="alamat">
+                <img src="../public/img/qr_code.webp" alt="" class="size-48 block">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3989.818136149183!2d102.135326!3d0.01741!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMMKwMDEnMDIuNyJOIDEwMsKwMDgnMDcuMiJF!5e0!3m2!1sen!2sid!4v1716432716176!5m2!1sen!2sid" width="250" height="150" style="border:0;" allowfullscreen="" loading="lazy" class="mt-5" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+                <a href="https://maps.app.goo.gl/3zJC6GxGygu8hGGY9" target="_blank" class=" mt-5 mx-auto mb-12 text-white bg-timeline flex items-center justify-center rounded-lg gap-2 px-5 py-2 text-sm" onclick="lihatLokasi()">
+                    <img src="../public/icons/bx_map.svg" alt="" class=""> Pergi Ke Lokasi
+                </a>
+            </div>
         </div>
     </div>
 </div>

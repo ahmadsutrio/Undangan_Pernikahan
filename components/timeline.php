@@ -41,20 +41,20 @@
 
             <div class="flex gap-3 w-full justify-center mt-10 mb-52">
                 <div class="day rounded-xl text-white flex size-16 flex-col bg-timeline justify-center items-center">
-                    <h4 class="text-3xl font-semibold">30</h4>
+                    <h4 class="text-3xl font-semibold" id="days">30</h4>
                     <p class="text-sm">Hari</p>
                 </div>
                 <div class="day rounded-xl text-white flex size-16 flex-col bg-timeline justify-center items-center">
-                    <h4 class="text-3xl font-semibold">30</h4>
-                    <p class="text-sm">Hari</p>
+                    <h4 class="text-3xl font-semibold" id="hours">30</h4>
+                    <p class="text-sm">Jam</p>
                 </div>
                 <div class="day rounded-xl text-white flex size-16 flex-col bg-timeline justify-center items-center">
-                    <h4 class="text-3xl font-semibold">30</h4>
-                    <p class="text-sm">Hari</p>
+                    <h4 class="text-3xl font-semibold" id="minutes">30</h4>
+                    <p class="text-sm">Menit</p>
                 </div>
                 <div class="day rounded-xl text-white flex size-16 flex-col bg-timeline justify-center items-center">
-                    <h4 class="text-3xl font-semibold">30</h4>
-                    <p class="text-sm">Hari</p>
+                    <h4 class="text-3xl font-semibold" id="seconds">30</h4>
+                    <p class="text-sm">Detik</p>
                 </div>
             </div>
         </div>
