@@ -108,7 +108,39 @@ function lihatRekening(){
   rekening.classList.toggle('hidden')
 }
 
+function submitData() {
+  const form = document.getElementById('myForm'); 
+  const nama = document.getElementById('nama');
+  const status_kehadiran = document.getElementById('status-kehadiran');
+  const pesan = document.getElementById('pesan');
 
+  form.addEventListener('submit', function (event) {
+    event.preventDefault();
+
+    let formData = new FormData(this);
+
+    fetch("System.php", {
+      method: "POST",
+      body: formData
+    })
+    .then(response => {
+      if (!response.ok) {
+        throw new Error("Network response was not ok");
+      }
+      
+      return response.text(); // Mengambil teks dari response
+    })
+    .then(data => {
+      nama.value="";
+      status_kehadiran.value="";
+      pesan.value="";
+      console.log(data); // Output response dari server
+    })
+    .catch(error => {
+      console.error("Fetch Error:", error); // Handling error jika ada
+    });
+  });
+}
 
 // Panggil fungsi getMessage setiap 3 detik menggunakan setInterval
 setInterval(() => {
@@ -119,5 +151,7 @@ setInterval(() => {
 document.addEventListener("DOMContentLoaded", function () {
   submitData();
 });
+
+
 
 getCounter();
