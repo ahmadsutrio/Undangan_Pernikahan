@@ -10,7 +10,7 @@
 
 <body>
     <div class="flex relative overflow-hidden top-0 left-0 right-0 bottom-0 ">
-        <div class="fixed left-0 w-[calc(100%_-_400px)] md:hidden lg:block flex justify-center items-center ">
+        <div class="fixed left-0 w-[calc(100%_-_400px)] hidden  lg:flex justify-center items-center ">
             <img src="/public/img/background.webp" alt="" class="w-full h-screen">
 
             <div class="absolute top-0 left-0 right-0 bottom-0">
