@@ -6,10 +6,10 @@
     </p>
 
     <form action="" method="post" class="text-form flex flex-col" id="myForm">
-        <label for="name" class="text-lg m-2">Nama</label>
-        <input type="text" class="py-2 px-3 border-input-label" placeholder="Masukan nama" id="name" name="nama">
+        <label for="nama" class="text-lg m-2">Nama</label>
+        <input type="text" class="py-2 px-3 border-input-label" placeholder="Masukan nama" id="nama" name="nama">
         <label for="status_kehadiran" class="text-lg mb-2 mx-2 mt-5">Status Kehadiran</label>
-        <select name="status_kehadiran" id="" class="text-lg py-2 px-3 border-input-label">
+        <select name="status_kehadiran" id="status-kehadiran" class="text-lg py-2 px-3 border-input-label">
             <option value="" disabled selected class="text-form/85 py-2  px-3">Pilih status kehadiran </option>
             <option value="Y" class="text-form/85 py-2 px-3">Hadir</option>
             <option value="N" class="text-form/85 py-2 px-3">Tidak Hadir</option>
