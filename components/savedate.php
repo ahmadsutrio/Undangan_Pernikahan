@@ -54,6 +54,9 @@
                 <a href="https://maps.app.goo.gl/3zJC6GxGygu8hGGY9" target="_blank" class=" mt-5 mx-auto mb-12 text-white bg-timeline flex items-center justify-center rounded-lg gap-2 px-5 py-2 text-sm" onclick="lihatLokasi()">
                     <img src="../public/icons/bx_map.svg" alt="" class=""> Pergi Ke Lokasi
                 </a>
+
+                <button class=" mt-5 mx-auto mb-12 text-white bg-timeline flex items-center justify-center rounded-lg gap-2 px-5 py-2 text-sm" onclick="lihatLokasi()"> Tutup
+                </button>
             </div>
         </div>
     </div>
