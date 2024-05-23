@@ -1,4 +1,4 @@
-<div class="mx-10 flex flex-col gap-5 pt-52 justify-center font-poppins text-paragraph ">
+<div class="mx-10 flex flex-col gap-5 pt-64 justify-center font-poppins text-paragraph ">
 
     <h4 class="text-center text-[2rem] font-semibold ">Pesan untuk Catin</h4>
     <p class="text-center text-sm">

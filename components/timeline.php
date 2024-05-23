@@ -1,4 +1,4 @@
-<div class="relative w-full h-[150vh] ">
+<div class="relative w-full h-[135vh] border ">
     <img src="../public/img/daun-timeline-1.webp" alt="" class="absolute  top-0 -left-4 z-10">
     <div class="absolute top-0 left-0 right-0 flex justify-center ">
         <img src="../public/img/daun-timeline-2.webp" alt="" class="absolute w-40 z-10">
