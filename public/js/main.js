@@ -119,7 +119,7 @@ function submitData() {
 
     let formData = new FormData(this);
 
-    fetch("System.php", {
+    fetch("../../System.php", {
       method: "POST",
       body: formData
     })

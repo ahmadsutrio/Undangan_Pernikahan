@@ -3,16 +3,18 @@
 class System
 {
     // DEV
-    // private $server = "localhost";
-    // private $database = "undangan";
-    // private $username = "root";
-    // private $password = "";
+    private $server = "localhost";
+    private $database = "undangan";
+    private $username = "root";
+    private $password = "";
 
     // PROD
-    private $server = "localhost";
-    private $database = "zurpgcnv_undanganPernikahan";
-    private $username = "zurpgcnv_admin";
-    private $password = "KvLp,x[kDq#@";
+    // private $server = "localhost";
+    // private $database = "zurpgcnv_undanganPernikahan";
+    // private $username = "zurpgcnv_admin";
+    // private $password = "KvLp,x[kDq#@";
+
+    
 
     public function koneksi()
     {
@@ -62,8 +64,11 @@ class System
 
         return $getData;
     }
+    public function tes(){
+        echo"tess";
 }
 
-
+}
 $system = new System;
 $system->insertMessage();
+// $system->tes();
