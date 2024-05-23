@@ -64,7 +64,7 @@ function playPause() {
   let playBtn = document.getElementById("play-music");
   let pauseBtn = document.getElementById("pause-music");
   // let playBtn = iconBtn.src="/public/assets/pause.svg";  
-  if(playBtn.src="/public/assets/play.svg"){
+  if(playBtn.src="/public/icons/play.svg"){
     playBtn.classList.toggle("hidden")
     playBtn.classList.toggle("show")
     pauseBtn.classList.toggle("show")
@@ -162,6 +162,11 @@ function submitData() {
   });
 }
 
+
+function getAll(){
+  welcome();
+  playPause()
+}
 // Panggil fungsi getMessage setiap 3 detik menggunakan setInterval
 setInterval(() => {
     getMessage(); // Panggil fungsi async di dalam wrapper
