@@ -20,7 +20,9 @@
             </div>
             <div class="-mt-14 text-secondary flex justify-center items-center flex-col">
                 <p class="text-[1rem]">Kepada Yth. Bapak/Ibu/Saudara/i :</p>
-                <h5 class="text-[1.5rem] font-semibold mt-1">" Karang Taruna "</h5>
+                <h5 class="text-[1.5rem] font-semibold mt-1">" 
+                    <span class=""><?= isset($_GET['to']) ? $_GET['to'] : "Tamu Undangan" ?></span> "
+                </h5>
                 <button class=" py-3 bg-secondary flex items-center justify-center gap-2 rounded-lg px-5 text-white mt-5" onclick="welcome()">
                     <img src="../public/icons/fontisto_email.svg" alt="" class="w-5">
                     <span class="">Buka Undangan</span>

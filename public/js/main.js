@@ -6,6 +6,26 @@ function welcome(){
 btnWelcome.classList.toggle('hidden')
 }
 
+function copyRekening(bank) {
+    rekening = "";
+    rekeningBsi = "7158698549";
+    rekeningMandiri = "7158698549";
+    rekeningBni = "0768915540";
+    rekeningQris = "qris";
+
+    if(bank === "BSI" ){
+        rekening = rekeningBsi
+    }else if(bank === "mandiri"){
+        rekening = rekeningMandiri
+    }else if(bank === "BNI" ){
+        rekening = rekeningBni
+    }else{
+        rekening = rekeningQris
+    }
+
+    navigator.clipboard.writeText(rekening)
+}
+
 
 function getCounter() {
   var countDownDate = new Date("June 16, 2024 09:00:00").getTime();
