@@ -888,10 +888,6 @@ video {
   top: 50.7rem;
 }
 
-.top-\[65rem\]{
-  top: 65rem;
-}
-
 .top-\[9\.8rem\]{
   top: 9.8rem;
 }
@@ -1249,20 +1245,12 @@ video {
   height: 150vh;
 }
 
-.h-\[200vh\]{
-  height: 200vh;
-}
-
 .h-\[33rem\]{
   height: 33rem;
 }
 
 .h-screen{
   height: 100vh;
-}
-
-.h-\[130vh\]{
-  height: 130vh;
 }
 
 .w-20{
@@ -2533,10 +2521,6 @@ video {
 
 .pt-16{
   padding-top: 4rem;
-}
-
-.pt-32{
-  padding-top: 8rem;
 }
 
 .pt-52{
