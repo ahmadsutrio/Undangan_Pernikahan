@@ -1,4 +1,4 @@
-<div class="relative h-[80rem] bg-red-400  my-10 w-full ">
+<div class="relative h-[80rem] my-10 w-full ">
     <div class="absolute flex left-0 right-0 top-0 justify-center ">
         <img src="../public/img/batu-atas-664af056163d1.webp" alt="" class="">
     </div>
