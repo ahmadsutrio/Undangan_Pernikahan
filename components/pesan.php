@@ -1,4 +1,4 @@
-<div class="mx-10 flex flex-col gap-5 pt-64 h-[70rem] justify-center font-poppins text-paragraph ">
+<div class="mx-10 flex flex-col gap-5 pt-64 h-[130vh] justify-center font-poppins text-paragraph ">
 
     <h4 class="text-center text-[2rem] font-semibold ">Pesan untuk Catin</h4>
     <p class="text-center text-sm">
@@ -16,6 +16,6 @@
         </select>
         <label for="pesan" class="text-lg m-2 mb-2 mx-2 mt-5">Pesan</label>
         <textarea name="pesan" id="pesan" cols="20" rows="4" class="resize-none py-2 px-3  border-input-label" placeholder="Pesan anda"></textarea>
-        <button  type="submit" name="submit" class="bg-timeline mt-4 rounded-lg text-white py-2 block">Kirim</button>
+        <button type="submit" name="submit" class="bg-timeline mt-4 rounded-lg text-white py-2 block">Kirim</button>
     </form>
 </div>

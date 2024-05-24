@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Undangan Digital | Rohmat & Putri</title>
-    <link rel="stylesheet" href="public/css/style.css?v=0.7 ">
+    <link rel="stylesheet" href="public/css/style.css?v=0.8 ">
 </head>
 
 <body>
@@ -21,7 +21,7 @@
 
 
         <div class="w-[400px] lg:fixed lg:right-0 md:mx-auto h-screen overflow-y-auto border overflow-x-hidden  bottom-0 ">
-            <section class="max-w-[400px] min-w-[360px]   ">
+            <section class="max-w-[400px] min-w-[360px]">
                 <div class="" id="welcome">
                     <?php include('components/welcome.php'); ?>
                 </div>
