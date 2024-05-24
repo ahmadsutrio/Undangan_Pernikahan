@@ -1,4 +1,4 @@
-<div class="relative h-[70rem] my-10 w-full ">
+<div class="relative h-[70rem] my-10 w-full " >
     <div class="absolute flex left-0 right-0 top-0 justify-center ">
         <img src="../public/img/batu-atas-664af056163d1.webp" alt="" class="">
     </div>
@@ -31,12 +31,12 @@
             <h4 class="text-3xl font-semibold ">SAVE THE DATE</h4>
             <h5 class="text-[2.6rem] font-great-vebes mt-14">Akad Nikah</h5>
             <p class="text-sm mt-5">
-                Minggu, 10 Juni 2024 <br> Pukul 19.30 WIB s/d Selesai <br> Di Kediaman Mempelai Wanita
+                Senin, 10 Juni 2024 <br> Pukul 19.30 WIB s/d Selesai <br> Di Kediaman Mempelai Wanita
             </p>
 
             <h5 class="text-[2.6rem] font-great-vebes mt-14">Resepsi</h5>
             <p class="text-sm mt-5">
-                Minggu, 11 Juni 2024 <br> Pukul 09.00 WIB s/d Selesai
+                Selasa, 11 Juni 2024 <br> Pukul 09.00 WIB s/d Selesai
                 <br> Di Kediaman Mempelai Wanita
             </p>
             <p class="mt-14 mx-5">

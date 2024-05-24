@@ -5,12 +5,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Undangan Digital | Rohmat & Putri</title>
-    <link rel="stylesheet" href="public/css/style.css?v=1.5 ">
     <meta property="og:title" content="Walimatul ‘Urs Rohmat dan Putri">
     <meta property="og:description" content="Walimatul ‘Urs Rohmat dan Putri">
     <meta property="og:image" content="https://tes.undangandigitalku.biz.id/public/img/thumnail-undangan.webp">
     <meta property="og:url" content="https://tes.undangandigitalku.biz.id/">
     <link rel="shortcut icon" href="/public/img/thumnail-undangan.webp" type="image/x-icon">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+    <link rel="stylesheet" href="public/css/style.css?v=1.6 ">
 </head>
 
 <body>
@@ -31,13 +32,27 @@
                     <?php include('components/welcome.php'); ?>
                 </div>
                 <div class="hidden relative" id="tampilan">
-                    <?php include('components/timeline.php'); ?>
-                    <?php include('components/pembukaan.php'); ?>
-                    <?php include('components/savedate.php'); ?>
-                    <?php include('components/pesan.php'); ?>
-                    <?php include('components/kotakPesan.php'); ?>
-                    <?php include('components/gift.php'); ?>
-                    <?php include('components/footer.php'); ?>
+                    <div class="" data-aos="fade-up">
+                        <?php include('components/timeline.php'); ?>
+                    </div>
+                    <div class="" data-aos="fade-up">
+                        <?php include('components/pembukaan.php'); ?>
+                    </div>
+                    <div class="" data-aos="fade-up">
+                        <?php include('components/savedate.php'); ?>
+                    </div>
+                    <div class="" data-aos="fade-up">
+                        <?php include('components/pesan.php'); ?>
+                    </div>
+                    <div class="" data-aos="fade-up">
+                        <?php include('components/kotakPesan.php'); ?>
+                    </div>
+                    <div class="" data-aos="fade-up">
+                        <?php include('components/gift.php'); ?>
+                    </div>
+                    <div class="" data-aos="fade-up">
+                        <?php include('components/footer.php'); ?>
+                    </div>
 
                     <div class="size-[59px] rounded-full right-8 z-[100]  bg-timeline flex justify-center items-center fixed bottom-10 animate-pulse border-timeline border-4">
                         <div class="bg-white size-8 rounded-full  flex justify-center items-center cursor-pointer" onclick="playPause()">
@@ -55,7 +70,9 @@
 
     </div>
 
+
     <script src="public/js/main.js"></script>
+
 </body>
 
 </html>

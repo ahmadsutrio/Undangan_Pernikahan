@@ -1,4 +1,4 @@
-<div class="px-10  flex flex-col relative w-full  h-[33rem] justify-center font-poppins bg-cover bg-center ">
+<div class="px-10  flex flex-col relative w-full  h-[33rem] justify-center font-poppins bg-cover bg-center " >
     <div class="absolute top-0 left-0 right-0 bottom-0 flex justify-center -z-[1]">
         <img src="../public/img/pasir&bunga.webp" alt="" class="w-full">
     </div>

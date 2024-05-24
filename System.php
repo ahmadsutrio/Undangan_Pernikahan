@@ -3,16 +3,16 @@
 class System
 {
     // DEV
-    // private $server = "localhost";
-    // private $database = "undangan";
-    // private $username = "root";
-    // private $password = "";
+    private $server = "localhost";
+    private $database = "undangan";
+    private $username = "root";
+    private $password = "";
 
     // PROD
-    private $server = "localhost";
-    private $database = "zurpgcnv_undanganPernikahan";
-    private $username = "zurpgcnv_admin";
-    private $password = "KvLp,x[kDq#@";
+    // private $server = "localhost";
+    // private $database = "zurpgcnv_undanganPernikahan";
+    // private $username = "zurpgcnv_admin";
+    // private $password = "KvLp,x[kDq#@";
 
     
 
