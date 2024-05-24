@@ -5,7 +5,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Undangan Digital | Rohmat & Putri</title>
-    <link rel="stylesheet" href="public/css/style.css?v=1.4 ">
+    <link rel="stylesheet" href="public/css/style.css?v=1.5 ">
+    <meta property="og:title" content="Walimatul ‘Urs Rohmat dan Putri">
+    <meta property="og:description" content="Walimatul ‘Urs Rohmat dan Putri">
+    <meta property="og:image" content="/public/img/thumnail-undangan.webp">
+    <meta property="og:url" content="https://tes.undangandigitalku.biz.id/">
+    <link rel="shortcut icon" href="/public/img/thumnail-undangan.webp" type="image/x-icon">
 </head>
 
 <body>
