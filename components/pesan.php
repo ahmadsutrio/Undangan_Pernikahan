@@ -1,7 +1,7 @@
-<div class="flex justify-center items-center border z-50 relative h-screen ">
+<div class="flex justify-center items-center z-50   ">
     <div class="mx-10 flex flex-col gap-5  justify-center font-poppins text-paragraph ">
 
-        <h4 class="text-center text-[2rem] font-semibold ">Pesan untuk Catin</h4>
+        <h4 class="text-center text-[2rem] leading-9 font-semibold ">Pesan untuk Catin</h4>
         <p class="text-center text-sm">
             Kami menyediakan fitur khusus bagi Bapak/Ibu/Saudara/i jika ingin mengirimkan pesan dan doa kepada calon pengantin, sebagai salah satu bentuk kasih sayang pada hari istimewa pengantin.
         </p>

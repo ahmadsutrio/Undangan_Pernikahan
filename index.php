@@ -20,8 +20,8 @@
         </div>
 
 
-        <div class="w-[400px] lg:fixed lg:right-0 md:mx-auto h-screen overflow-y-auto border overflow-x-hidden  bottom-0 ">
-            <section class="max-w-[400px] min-w-[360px]">
+        <div class="w-[400px] min-w-[360px] lg:fixed lg:right-0 mx-auto h-screen overflow-y-auto flex justify-center border overflow-x-hidden  bottom-0 ">
+            <section class="w-full  ">
                 <div class="" id="welcome">
                     <?php include('components/welcome.php'); ?>
                 </div>
@@ -42,7 +42,7 @@
                     </div>
 
                     <audio controls id="music-on" class="hidden" loop="true">
-                        <source src="/public/mp3/Video Undangan Pernikahan Digital Fathna & Fauzan.mp3"  type="audio/mp3">
+                        <source src="/public/mp3/Video Undangan Pernikahan Digital Fathna & Fauzan.mp3" type="audio/mp3">
                     </audio>
                 </div>
             </section>

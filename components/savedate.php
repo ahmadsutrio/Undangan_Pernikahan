@@ -1,4 +1,4 @@
-<div class="relative h-[130vh] mt-10 w-full ">
+<div class="relative h-[160vh]  my-10 w-full ">
     <div class="absolute flex left-0 right-0 top-0 justify-center ">
         <img src="../public/img/batu-atas-664af056163d1.webp" alt="" class="">
     </div>
@@ -13,7 +13,7 @@
     <img src="../public/img/daun-tepi-save-date-8-664af051c0387.webp" alt="" class="right-0 top-[38.7rem] absolute ">
     <img src="../public/img/daun-tepi-save-date-9-664af051c038b.webp" alt="" class="right-0 top-[44.7rem] z-10 absolute ">
     <img src="../public/img/daun-tepi-save-date-10-664af05e013a2.webp" alt="" class="right-0 top-[50.7rem] absolute ">
-    <img src="../public/img/pasir-daun-bawah.webp" alt="" class="right-0 left-0  top-[50.7rem] absolute z-10 ">
+    <img src="../public/img/pasir-daun-bawah.webp" alt="" class="right-0 left-0  -bottom-14 w-full absolute z-10 ">
     <img src="../public/img/daun-tepi-save-date-12-664af05ed94ab.webp" alt="" class=" left-0  top-[46rem] z-[1] absolute ">
     <img src="../public/img/daun-tepi-save-date-12-1-664af05298c50.webp" alt="" class=" left-0  top-[41.5rem] z-10 absolute ">
     <img src="../public/img/daun-tepi-save-date-13-664af05ed94ae.webp" alt="" class=" left-0  top-[35rem] z-[1] absolute ">
