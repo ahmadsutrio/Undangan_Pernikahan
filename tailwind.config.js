@@ -16,6 +16,7 @@ module.exports = {
         'golden':'#B0A465',
         'form':'#706767',
         'input':'#9FC39C',
+        'love-story':'#DEEBDB'
       },
       backgroundImage: {
         'kotak-pesan':"url('public/img/pasir&batu.webp')"      
