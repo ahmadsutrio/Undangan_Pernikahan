@@ -103,7 +103,7 @@ async function getMessage() {
             <h5 class="text-[1rem] font-semibold mb-1">${chat.nama}</h5>
             <p class="text-sm text-paragraph/80">Status Kehadiran : ${chat.status_kehadiran === 'Y' ? "hadir" : "tidak Hadir"}</p>
             <p class="text-sm text-paragraph/80">Pesan : ${chat.pesan}</p>
-            <p class="text-sm text-paragraph/80 mt-2 font-medium">Pesan : ${chat.waktu}</p>
+            <p class="text-sm text-paragraph/80 mt-2 font-medium">Waktu : ${chat.waktu}</p>
              
             `;
 
