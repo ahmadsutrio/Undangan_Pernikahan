@@ -1,4 +1,4 @@
-<div class="flex  relative flex-col mt-5 justify-center  text-center text-paragraph text-sm font-poppins ">
+<div class="flex animate-on-scroll relative flex-col mt-5 justify-center  text-center text-paragraph text-sm font-poppins " data-aos="fade-up">
 
     <p class="px-5">Menjadi sebuah kebahagiaan bagi kami apabila bapak/ibu/saudara/i berkenan hadir dalam hari bahagia ini. Terimakasih, atas segala ucapan, doa, dan perhatian yang diberikan.</p>
 
@@ -9,12 +9,12 @@
         <h4 class="">&</h4>
         <h4 class="">Putri</h4>
         <div class="absolute  ">
-            <img src="/public/img/circle-border.png" alt="" class="">
+            <img loading="lazy" src="/public/img/circle-border.png" alt="" class="">
         </div>
     </div>
 
 
     <div class="absolute left-0 right-0 bottom-0">
-        <img src="../public/img/daun-bawah-footer.webp" alt="" class="w-full">
+        <img loading="lazy" src="../public/img/daun-bawah-footer.webp" alt="" class="w-full">
     </div>
 </div>

@@ -11,7 +11,7 @@
     <meta property="og:url" content="https://tes.undangandigitalku.biz.id/">
     <link rel="shortcut icon" href="/public/img/thumnail-undangan.webp" type="image/x-icon">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
-    <link rel="stylesheet" href="public/css/style.css?v=1.7 ">
+    <link rel="stylesheet" href="public/css/style.css?v=1.8 ">
 </head>
 
 <body>

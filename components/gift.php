@@ -1,10 +1,10 @@
 <!-- amplop digital -->
-<div class="font-poppins relative  -mt-10  flex flex-col justify-center  text-paragraph text-center">
+<div class="font-poppins relative  -mt-10  flex flex-col justify-center  text-paragraph text-center" data-aos="fade-up">
     <h4 class="text-[2rem] font-semibold mb-4">Amplop Digital</h4>
     <p class="mx-12 text-sm">Do'a restu Anda merupakan karunia yang sangat berarti bagi kami. Dan jika memberi adalah ungkapan tanda kasih Anda, Anda dapat memberi kado secara cashless</p>
 
     <button class=" mt-10 mx-auto mb-12 text-white bg-timeline flex items-center justify-center rounded-lg gap-2 px-5 py-2 text-sm" onclick="lihatRekening()">
-        <img src="../public/icons/gift.svg" alt="" class=""> Kirim Hadiah
+        <img loading="lazy" src="../public/icons/gift.svg" alt="" class=""> Kirim Hadiah
     </button>
 
     <div class=" bg-white px-14 flex justify-center items-center text-center flex-col text-paragraph hidden" id="rekening">
@@ -16,7 +16,7 @@
             7158698549
 
             <button type="button" class="outline-none px-2 py-1 mt-2  flex justify-center items-center rounded-lg mx-auto active:ring active:ring-slate-400 active:ring-opacity-25 active:bg-slate-100" onclick="copyRekening('BSI')">
-                <img src="../public/icons/copy.svg" class="w-3" alt="">Salin</button>
+                <img loading="lazy" src="../public/icons/copy.svg" class="w-3" alt="">Salin</button>
         </div>
         <h4 class="tex-lg font-semibold mt-3">BNI </h4>
         <p class="text-sm">a.n. Saputri</p>
@@ -24,7 +24,7 @@
             0768915540
 
             <button type="button" class="outline-none px-2 py-1 mt-2  flex justify-center items-center rounded-lg mx-auto active:ring active:ring-slate-400 active:ring-opacity-25 active:bg-slate-100" onclick="copyRekening('BNI')">
-                <img src="../public/icons/copy.svg" class="w-3" alt="">Salin</button>
+                <img loading="lazy" src="../public/icons/copy.svg" class="w-3" alt="">Salin</button>
         </div>
 
         <button class=" mt-10 mx-auto mb-12 text-white bg-timeline flex items-center justify-center rounded-lg gap-2 px-5 py-2 text-sm" onclick="lihatRekening()">
@@ -33,11 +33,11 @@
     </div>
 
     <div class="flex absolute top-0 left-0 bottom-0 w-20 justify-around flex-col pt-10">
-        <img src="../public/img/batu-gift-kanan-664dc76032fa5.webp" alt="" class="w-9">
-        <img src="../public/img/daun-gift-kiri-664dc75f8b296.webp" alt="" class="">
+        <img loading="lazy" src="../public/img/batu-gift-kanan-664dc76032fa5.webp" alt="" class="w-9">
+        <img loading="lazy" src="../public/img/daun-gift-kiri-664dc75f8b296.webp" alt="" class="">
     </div>
     <div class="flex absolute top-0 right-0 bottom-0 w-20 justify-around flex-col items-end pt-10">
-        <img src="../public/img/batu-gift-kiri-664dc7606738a.webp" alt="" class="w-9 ">
-        <img src="../public/img/daun-gift-kanan-664dc75f916c2.webp" alt="" class="">
+        <img loading="lazy" src="../public/img/batu-gift-kiri-664dc7606738a.webp" alt="" class="w-9 ">
+        <img loading="lazy" src="../public/img/daun-gift-kanan-664dc75f916c2.webp" alt="" class="">
     </div>
 </div>
