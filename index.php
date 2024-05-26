@@ -26,20 +26,20 @@
         </div>
 
 
-        <div class="w-[400px] min-w-[360px] lg:fixed lg:right-0 mx-auto h-screen overflow-y-auto flex justify-center border overflow-x-hidden  bottom-0 ">
+        <div class="w-[400px] min-w-[360px]  lg:fixed lg:right-0 mx-auto h-screen overflow-y-auto flex justify-center border overflow-x-hidden  bottom-0 ">
             <section class="w-full ">
-                <div class="" id="welcome">
+                <div class="dark:bg-d-background" id="welcome">
                     <?php include('components/welcome.php'); ?>
                 </div>
-                <div class="relative hidden" id="tampilan">
-                        <?php include('components/timeline.php'); ?>
-                        <?php include('components/pembukaan.php'); ?>
-                        <?php include('components/savedate.php'); ?>
-                        <?php include('components/loveStory.php'); ?>
-                        <?php include('components/pesan.php'); ?>
-                        <?php include('components/kotakPesan.php'); ?>
-                        <?php include('components/gift.php'); ?>
-                        <?php include('components/footer.php'); ?>
+                <div class="relative hidden dark:bg-d-background" id="tampilan">
+                    <?php include('components/timeline.php'); ?>
+                    <?php include('components/pembukaan.php'); ?>
+                    <?php include('components/savedate.php'); ?>
+                    <?php include('components/loveStory.php'); ?>
+                    <?php include('components/pesan.php'); ?>
+                    <?php include('components/kotakPesan.php'); ?>
+                    <?php include('components/gift.php'); ?>
+                    <?php include('components/footer.php'); ?>
 
                     <div class="size-[59px] rounded-full right-8 z-[100]  bg-timeline flex justify-center items-center fixed bottom-10 animate-pulse border-timeline border-4">
                         <div class="flex items-center justify-center bg-white rounded-full cursor-pointer size-8" onclick="playPause()">

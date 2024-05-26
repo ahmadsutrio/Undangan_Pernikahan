@@ -3,6 +3,7 @@ module.exports = {
   content: ["./**/*.{php,js}"],
   theme: {
     extend: {
+      darkMode: 'class',
       fontFamily: {
         'poppins': "Poppins",
         'great-vebes': "Great Vibes",
@@ -16,7 +17,11 @@ module.exports = {
         'golden':'#B0A465',
         'form':'#706767',
         'input':'#9FC39C',
-        'love-story':'#DEEBDB'
+        'love-story':'#DEEBDB',
+        'd-background':'#05292A',
+        'd-container':'#355A53',
+        'd-text':'#DDDDDD',
+        'd-heading':'#D6AB63'
       },
       backgroundImage: {
         'kotak-pesan':"url('public/img/pasir&batu.webp')"      

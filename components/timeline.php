@@ -1,4 +1,4 @@
-<div class="relative w-full h-[48rem]" >
+<div class="relative w-full h-[48rem] " >
     <img src="../public/img/daun-timeline-1.webp" alt="" loading="lazy" class="absolute w-[10.5rem]  animate__animated animate__fadeInDown animate__slow top-0 -left-2 z-10">
     <div class="absolute top-0 left-0 right-0 flex justify-center  ">
         <img src="../public/img/daun-timeline-2.webp" alt="" loading="lazy" class="animate__animated animate__fadeInDown   w-[10rem] z-10">
@@ -29,13 +29,13 @@
         <img src=" ../public/img/daun-timeline-24.webp" alt loading="lazy"="" class="w-14 animate__animated animate__fadeInLeft animate__slow">
     </div>
 
-    <div class=" mx-5 backdrop-blur-sm bg-white/30 border z-[9] absolute left-0 right-0  top-0 mt-10 pt-10 animate__animated animate__fadeInUp animate__slow ">
-        <div class=" text-sm text-paragraph text-center px-5 ">
+    <div class=" mx-5 backdrop-blur-sm bg-white/30  dark:bg-d-container border z-[9] absolute left-0 right-0  top-0 mt-10 pt-10 animate__animated animate__fadeInUp animate__slow ">
+        <div class=" text-sm text-paragraph  dark:text-d-text text-center px-5 ">
             <p class="">
                 Dan di antara tanda-tanda (kebesaran)-Nya ialah Dia menciptakan pasangan-pasangan untukmu dari jenismu sendiri, agar kamu cenderung dan merasa tenteram kepadanya, dan Dia menjadikan di antaramu rasa kasih dan sayang. Sungguh, pada yang demikian itu benar-benar terdapat tanda-tanda (kebesaran Allah) bagi kaum yang berpikir
             </p>
             <p class="mt-6 mb-10 ">QS. Ar-Rum : 21</p>
-            <p class="font-great-vebes text-primary text-[2.6rem] mb-8 ">Rohmat & Putri</p>
+            <p class="font-great-vebes text-primary dark:text-d-heading text-[2.6rem] mb-8 ">Rohmat & Putri</p>
             <p class="mx-5 ">Kami berharap Anda
                 menjadi bagian dari hari istimewa kami</p>
 

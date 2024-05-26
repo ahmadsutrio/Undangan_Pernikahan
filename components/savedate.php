@@ -27,14 +27,14 @@
 
 
     <div class="absolute flex left-0 right-0 top-32 justify-center  ">
-        <div class="  font-poppins backdrop-blur-sm text-paragraph z-[9] border-4 border-golden py-16 bg-white/30 text-center px-3">
+        <div class="  font-poppins backdrop-blur-sm text-paragraph z-[9] border-4 dark:text-d-text dark:bg-d-container border-golden py-16 bg-white/30 text-center px-3">
             <h4 class="text-3xl font-semibold ">SAVE THE DATE</h4>
-            <h5 class="text-[2.6rem] font-great-vebes mt-14">Akad Nikah</h5>
+            <h5 class="text-[2.6rem] font-great-vebes mt-14 dark:text-d-heading">Akad Nikah</h5>
             <p class="text-sm mt-5">
                 Senin, 10 Juni 2024 <br> Pukul 19.30 WIB s/d Selesai <br> Di Kediaman Mempelai Wanita
             </p>
 
-            <h5 class="text-[2.6rem] font-great-vebes mt-14">Resepsi</h5>
+            <h5 class="text-[2.6rem] font-great-vebes mt-14 dark:text-d-heading">Resepsi</h5>
             <p class="text-sm mt-5">
                 Selasa, 11 Juni 2024 <br> Pukul 09.00 WIB s/d Selesai
                 <br> Di Kediaman Mempelai Wanita

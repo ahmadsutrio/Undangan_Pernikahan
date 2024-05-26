@@ -1,6 +1,6 @@
 <div class="relative mb-10">
-    <div class=" text-paragraph font-poppins px-5 pb-7 ">
-        <h4 class="text-[2rem] leading-9 font-semibold text-center mb-10">We love each other
+    <div class=" text-paragraph font-poppins px-5 pb-7  ">
+        <h4 class="text-[2rem] leading-9 font-semibold dark:text-d-text text-center mb-10">We love each other
             Our story</h4>
 
         <div class="flex flex-col justify-center gap-4">
