@@ -1,4 +1,4 @@
-<div class="relative h-[70rem] my-10 w-full " >
+<div class="relative h-[73rem] my-10 w-full " >
     <div class="absolute flex left-0 right-0 top-0 justify-center ">
         <img loading="lazy" src="../public/img/batu-atas-664af056163d1.webp" alt="" class="">
     </div>
@@ -13,7 +13,7 @@
     <img loading="lazy" src="../public/img/daun-tepi-save-date-8-664af051c0387.webp" alt="" class="right-0 top-[38.7rem] absolute ">
     <img loading="lazy" src="../public/img/daun-tepi-save-date-9-664af051c038b.webp" alt="" class="right-0 top-[44.7rem] z-10 absolute ">
     <img loading="lazy" src="../public/img/daun-tepi-save-date-10-664af05e013a2.webp" alt="" class="right-0 top-[50.7rem] absolute ">
-    <img loading="lazy" src="../public/img/pasir-daun-bawah.webp" alt="" class="right-0 left-0  -bottom-14 w-full absolute z-10 ">
+    <img loading="lazy" src="../public/img/pasir-daun-bawah.webp" alt="" class="right-0 left-0  -bottom-[3rem] w-full absolute z-10 ">
     <img loading="lazy" src="../public/img/daun-tepi-save-date-12-664af05ed94ab.webp" alt="" class=" left-0  top-[46rem] z-[1] absolute ">
     <img loading="lazy" src="../public/img/daun-tepi-save-date-12-1-664af05298c50.webp" alt="" class=" left-0  top-[41.5rem] z-10 absolute ">
     <img loading="lazy" src="../public/img/daun-tepi-save-date-13-664af05ed94ae.webp" alt="" class=" left-0  top-[35rem] z-[1] absolute ">
@@ -27,25 +27,25 @@
 
 
     <div class="absolute flex left-0 right-0 top-32 justify-center  ">
-        <div class="  font-poppins backdrop-blur-sm text-paragraph z-[9] border-4 dark:text-d-text dark:bg-d-container border-golden py-16 bg-white/30 text-center px-3">
+        <div class="  font-poppins backdrop-blur-sm text-paragraph z-[9] border-4 dark:text-d-text dark:bg-d-container border-golden pt-10 pb-16  bg-white/30 text-center px-3">
             <h4 class="text-3xl font-semibold ">SAVE THE DATE</h4>
-            <h5 class="text-[2.6rem] font-great-vebes mt-14 dark:text-d-heading">Akad Nikah</h5>
-            <p class="text-sm mt-5">
+            <h5 class="text-[2.6rem] font-great-vebes mt-8 dark:text-d-heading">Akad Nikah</h5>
+            <p class="text-sm mt-3">
                 Senin, 10 Juni 2024 <br> Pukul 19.30 WIB s/d Selesai <br> Di Kediaman Mempelai Wanita
             </p>
 
-            <h5 class="text-[2.6rem] font-great-vebes mt-14 dark:text-d-heading">Resepsi</h5>
-            <p class="text-sm mt-5">
+            <h5 class="text-[2.6rem] font-great-vebes mt-8 dark:text-d-heading">Resepsi</h5>
+            <p class="text-sm mt-3">
                 Selasa, 11 Juni 2024 <br> Pukul 09.00 WIB s/d Selesai
                 <br> Di Kediaman Mempelai Wanita
             </p>
 
-            <h5 class="text-[2.6rem] font-great-vebes mt-14 dark:text-d-heading">Ngunduh Mantu</h5>
-            <p class="text-sm mt-5">
+            <h5 class="text-[2.6rem] font-great-vebes mt-8 dark:text-d-heading">Ngunduh Mantu</h5>
+            <p class="text-sm mt-3">
                 Minggu, 23 Juni 2024 <br> Pukul 09.00 WIB s/d Selesai
                 <br> Di Kediaman Mempelai Pria
             </p>
-            <p class="mt-14 mx-5">
+            <p class="mt-8 mx-5">
                 Desa Sari Mulya, Pangkalan Lesung, <br> Pelalawan
             </p>
 
