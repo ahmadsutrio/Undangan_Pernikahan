@@ -7,7 +7,7 @@
         <img loading="lazy" src="../public/icons/gift.svg" alt="" class=""> Kirim Hadiah
     </button>
 
-    <div class=" bg-white px-14 dark:text-d-text flex justify-center items-center text-center flex-col text-paragraph hidden" id="rekening">
+    <div class=" bg-white px-14 dark:text-d-text dark:bg-d-background flex justify-center items-center text-center flex-col text-paragraph hidden" id="rekening">
         <h5 class="text-[2rem] font-semibold mb-5 leading-10">Hadiah <br> Penikahan</h5>
         <p class="text-sm">Anda dapat mengirimkan amplop ke daftar rekening yang tertera di bawah ini :</p>
         <h4 class="tex-lg font-semibold mt-3">BSI</h4>
@@ -16,7 +16,7 @@
             7158698549
 
             <button type="button" class="outline-none px-2 py-1 mt-2  flex justify-center items-center rounded-lg mx-auto active:ring active:ring-slate-400 active:ring-opacity-25 active:bg-slate-100" onclick="copyRekening('BSI')">
-                <img loading="lazy" src="../public/icons/copy.svg" class="w-3" alt="">Salin</button>
+                <img loading="lazy" src="../public/icons/copy.svg" class="w-3 dark:text-white" alt="">Salin</button>
         </div>
         <h4 class="tex-lg font-semibold mt-3">BNI </h4>
         <p class="text-sm">a.n. Saputri</p>

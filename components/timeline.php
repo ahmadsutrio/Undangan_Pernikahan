@@ -29,7 +29,7 @@
         <img src=" ../public/img/daun-timeline-24.webp" alt loading="lazy"="" class="w-14 animate__animated animate__fadeInLeft animate__slow">
     </div>
 
-    <div class=" mx-5 backdrop-blur-sm bg-white/30  dark:bg-d-container border z-[9] absolute left-0 right-0  top-0 mt-10 pt-10 animate__animated animate__fadeInUp animate__slow ">
+    <div class=" mx-5 backdrop-blur-sm bg-white/30  dark:bg-d-container border-4 border-primary z-[9] absolute left-0 right-0  top-0 mt-10 pt-10 animate__animated animate__fadeInUp animate__slow ">
         <div class=" text-sm text-paragraph  dark:text-d-text text-center px-5 ">
             <p class="">
                 Dan di antara tanda-tanda (kebesaran)-Nya ialah Dia menciptakan pasangan-pasangan untukmu dari jenismu sendiri, agar kamu cenderung dan merasa tenteram kepadanya, dan Dia menjadikan di antaramu rasa kasih dan sayang. Sungguh, pada yang demikian itu benar-benar terdapat tanda-tanda (kebesaran Allah) bagi kaum yang berpikir
