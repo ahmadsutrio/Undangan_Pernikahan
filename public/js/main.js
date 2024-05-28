@@ -97,7 +97,7 @@ async function getMessage() {
         // Loop untuk setiap data chat dan tambahkan ke dalam chatContainer
         data.forEach(chat => {
             const chatElement = document.createElement('div');
-            chatElement.className = 'bg-white border rounded-lg p-3 flex flex-col text-paragraph flex-wrap';
+            chatElement.className = 'bg-white border z-20 rounded-lg p-3 flex flex-col text-paragraph flex-wrap';
             chatElement.innerHTML = `
           
             <h5 class="text-[1rem] font-semibold mb-1">${chat.nama}</h5>
