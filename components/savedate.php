@@ -42,8 +42,8 @@
 
             <h5 class="text-[2.6rem] font-great-vebes mt-14 dark:text-d-heading">Ngunduh Mantu</h5>
             <p class="text-sm mt-5">
-                Selasa, 11 Juni 2024 <br> Pukul 09.00 WIB s/d Selesai
-                <br> Di Kediaman Mempelai Wanita
+                Minggu, 23 Juni 2024 <br> Pukul 09.00 WIB s/d Selesai
+                <br> Di Kediaman Mempelai Pria
             </p>
             <p class="mt-14 mx-5">
                 Desa Sari Mulya, Pangkalan Lesung, <br> Pelalawan
