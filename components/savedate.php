@@ -1,4 +1,4 @@
-<div class="relative h-[73rem] my-10 w-full ">
+<div class="relative h-[73rem] my-10 w-full  ">
     <div class="absolute flex left-0 right-0 top-0 justify-center ">
         <img src="../public/img/batu-atas-664af056163d1.webp" alt="" class="">
     </div>
@@ -27,7 +27,7 @@
 
 
     <div class="absolute flex left-0 right-0 top-32 justify-center  ">
-        <div class="  font-poppins backdrop-blur-sm text-paragraph z-[9] border-4 dark:text-d-text dark:bg-d-container border-golden pt-10 pb-16  bg-white/30 text-center px-3">
+        <div class="  font-poppins backdrop-blur-sm text-paragraph z-[9] border-4 dark:text-d-text dark:bg-d-container border-golden pt-10 pb-16  bg-white/30 text-center px-10">
             <h4 class="text-3xl font-semibold ">SAVE THE DATE</h4>
             <h5 class="text-[2.6rem] font-great-vebes mt-8 dark:text-d-heading">Akad Nikah</h5>
             <p class="text-sm mt-3">
@@ -47,7 +47,7 @@
             </p>
 
 
-            <button class=" mt-5 mx-auto mb-12 text-white bg-timeline flex items-center justify-center rounded-lg gap-2 px-5 py-2 text-sm" onclick="lihatLokasi()">
+            <button class=" mt-5 mx-auto mb-16 text-white bg-timeline flex items-center justify-center rounded-lg gap-2 px-5 py-2 text-sm" onclick="lihatLokasi()">
                 <img loading="lazy" src="../public/icons/bx_map.svg" alt="" class=""> Lihat Lokasi
             </button>
 
@@ -67,7 +67,7 @@
                     <img loading="lazy" src="../public/icons/bx_map.svg" alt="" class=""> Pergi Ke Lokasi
                 </a>
 
-                <button class="  text-white px-5 py-2 bg-timeline rounded-lg  text-sm" onclick="lihatLokasi()">Tutup
+                <button class="  text-white px-5 py-2 bg-timeline rounded-lg  text-sm z-50" onclick="lihatLokasi()">Tutup
                 </button>
             </div>
         </div>
