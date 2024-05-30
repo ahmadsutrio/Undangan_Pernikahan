@@ -45,15 +45,13 @@
                 Minggu, 23 Juni 2024 <br> Pukul 09.00 WIB s/d Selesai
                 <br> Di Kediaman Mempelai Pria
             </p>
-            <p class="mt-8 mx-5">
-                Desa Sari Mulya, Pangkalan Lesung, <br> Pelalawan
-            </p>
+
 
             <button class=" mt-5 mx-auto mb-12 text-white bg-timeline flex items-center justify-center rounded-lg gap-2 px-5 py-2 text-sm" onclick="lihatLokasi()">
                 <img loading="lazy" src="../public/icons/bx_map.svg" alt="" class=""> Lihat Lokasi
             </button>
 
-            <div class="px-10 bg-slate-800/70 hidden backdrop-blur-lg z-50 absolute top-0 left-0 right-0 bottom-0 flex justify-center items-center flex-col" id="alamat">
+            <div class="px-10 bg-slate-800/70 hidden  backdrop-blur-lg z-50 absolute top-0 left-0 right-0 bottom-0 flex justify-center items-center flex-col" id="alamat">
                 <h5 class="text-[2.6rem] font-great-vebes dark:text-d-heading">Acara Pesta</h5>
                 <img loading="lazy" src="../public/img/qr_code.webp" alt="" class="size-40 block border-4 border-primary">
                 <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3989.818136149183!2d102.135326!3d0.01741!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMMKwMDEnMDIuNyJOIDEwMsKwMDgnMDcuMiJF!5e0!3m2!1sen!2sid!4v1716432716176!5m2!1sen!2sid"  style="border:0;" allowfullscreen="no" loading="lazy" class="mt-3 block  border-4 w-24 h-20 border-primary" referrerpolicy="no-referrer-when-downgrade"></iframe> -->
@@ -62,14 +60,14 @@
                     <img loading="lazy" src="../public/icons/bx_map.svg" alt="" class=""> Pergi Ke Lokasi
                 </a>
                 <h5 class="text-[2.6rem] font-great-vebes dark:text-d-heading mt-3">Ngunduh Mantu</h5>
-                <img loading="lazy" src="../public/img/qr_code.webp" alt="" class="size-40 block border-4 border-primary">
+                <img loading="lazy" src="../public/img/qr_code_pria.webp" alt="" class="size-40 block border-4 border-primary">
                 <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3989.818136149183!2d102.135326!3d0.01741!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMMKwMDEnMDIuNyJOIDEwMsKwMDgnMDcuMiJF!5e0!3m2!1sen!2sid!4v1716432716176!5m2!1sen!2sid"  style="border:0;" allowfullscreen="no" loading="lazy" class="mt-3 block  border-4 w-24 h-20 border-primary" referrerpolicy="no-referrer-when-downgrade"></iframe> -->
 
-                <a href="https://www.google.com/maps?q=0.831571,102.073119&entry=gps&g_ep=CAESCjExLjExMS4yMDEYACDXggMqLSw5NDIyMTEzNyw5NDIxMjQ5Niw5NDIxMjY2Niw5NDIxODY1Myw0NzA4NDM5M0ICSUQ%3D&shorturl=1" target="_blank" class=" mt-5 mx-auto mb-10 text-white bg-timeline flex items-center justify-center rounded-lg gap-2 px-5 py-2 text-sm" onclick="lihatLokasi()">
+                <a href="https://www.google.com/maps?q=0.831571,102.073119&entry=gps&g_ep=CAESCjExLjExMS4yMDEYACDXggMqLSw5NDIyMTEzNyw5NDIxMjQ5Niw5NDIxMjY2Niw5NDIxODY1Myw0NzA4NDM5M0ICSUQ%3D&shorturl=1" target="_blank" class=" mt-5 mx-auto mb-4 text-white bg-timeline flex items-center justify-center rounded-lg gap-2 px-5 py-2 text-sm" onclick="lihatLokasi()">
                     <img loading="lazy" src="../public/icons/bx_map.svg" alt="" class=""> Pergi Ke Lokasi
                 </a>
 
-                <button class=" mx-auto text-white bg-timeline flex items-center justify-center rounded-lg gap-2 px-5 py-2 text-sm" onclick="lihatLokasi()"> Tutup
+                <button class="  text-white px-5 py-2 bg-timeline rounded-lg  text-sm" onclick="lihatLokasi()">Tutup
                 </button>
             </div>
         </div>
