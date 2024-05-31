@@ -28,7 +28,7 @@ function copyRekening(bank) {
 
 
 function getCounter() {
-  var countDownDate = new Date("June 16, 2024 09:00:00").getTime();
+  var countDownDate = new Date("June 11, 2024 09:00:00").getTime();
 
   var x = setInterval(function () {
     var now = new Date().getTime();
@@ -104,12 +104,8 @@ async function getMessage() {
             <p class="text-sm text-paragraph/80">Status Kehadiran : ${chat.status_kehadiran === 'Y' ? "hadir" : "tidak Hadir"}</p>
             <p class="text-sm text-paragraph/80">Pesan : ${chat.pesan}</p>
             <p class="text-sm text-paragraph/80 mt-2 font-medium">Waktu : ${chat.waktu}</p>
-             
             `;
-
             document.getElementById('chatContainer').appendChild(chatElement);
-
-            // console.log(chatElement)
         });
         // Data ditampilkan di konsol
     } catch (error) {
@@ -120,7 +116,17 @@ async function getMessage() {
 function lihatLokasi(){
   let showLokasi = document.getElementById('alamat');
   showLokasi.classList.toggle('hidden')
-  console.log('success');
+}
+
+function selectTheme() {
+  let theme = document.getElementById('theme');
+    if(theme.src==="/public/icons/moon-alt.svg"){
+      console.log('true');
+      theme.src="/public/icons/brightness.svg"
+    }else{
+      theme.src="/public/icons/moon-alt.svg"
+      console.log('false');
+    }
 }
 
 function lihatRekening(){
