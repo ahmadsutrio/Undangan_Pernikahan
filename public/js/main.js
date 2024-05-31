@@ -28,7 +28,7 @@ function copyRekening(bank) {
 
 
 function getCounter() {
-  var countDownDate = new Date("June 11, 2024 09:00:00").getTime();
+  var countDownDate = new Date("June 11, 2024 24:00:00").getTime();
 
   var x = setInterval(function () {
     var now = new Date().getTime();
