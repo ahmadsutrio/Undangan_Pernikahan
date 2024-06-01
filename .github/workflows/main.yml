@@ -17,4 +17,4 @@ jobs:
         server: ftp.undangandigitalku.biz.id
         username: ${{ secrets.ftp_username }}
         password: ${{ secrets.ftp_password }}
-        server-dir: /
+        server-dir: /public_html/
