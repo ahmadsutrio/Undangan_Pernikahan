@@ -11,7 +11,7 @@
     <meta property="og:url" content="https://tes.undangandigitalku.biz.id/">
     <link rel="shortcut icon" href="/public/img/thumnail-undangan.webp" type="image/x-icon">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
-    <link rel="stylesheet" href="public/css/style.css?v=2.8 ">
+    <link rel="stylesheet" href="public/css/style.css">
 </head>
 
 <body>
@@ -48,9 +48,9 @@
                         </div>
                     </div>
 
-                    <div class="size-10 border-white rounded-full right-10 z-[100]  bg-timeline flex justify-center items-center fixed bottom-[7rem] cursor-pointer border-2" id="theme" onclick="selectTheme()">
+                    <!-- <div class="size-10 border-white rounded-full right-10 z-[100]  bg-timeline flex justify-center items-center fixed bottom-[7rem] cursor-pointer border-2" id="theme" onclick="selectTheme()">
                         <img src="/public/icons/moon-alt.svg" alt="" class="" id="theme  ">
-                    </div>
+                    </div> -->
 
                     <audio controls id="music-on" class="hidden" loop="true">
                         <source src="/public/mp3/Video Undangan Pernikahan Digital Fathna & Fauzan.mp3" type="audio/mp3">
