@@ -13,7 +13,7 @@ jobs:
     - name : Copy .env
       run : php -r "file_exists('.env') || copy('.env.example', '.env');"
     - name : Install Depedencies
-      run : composer update --ignore-platform-reqs
+      run : composer install
     - name : Generate Key
       run : php artisan key:generate
     - name : Generate storage link
