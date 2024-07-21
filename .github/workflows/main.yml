@@ -10,7 +10,14 @@ jobs:
     steps:
     - name: 🚚 Get latest code
       uses: actions/checkout@v4
-    
+    - name : Copy .env
+      run : php -r "file_exists('.env') || copy('.env.example', '.env');"
+    - name : Install Depedencies
+      run : composer update --ignore-platform-reqs
+    - name : Generate Key
+      run : php artisan key:generate
+    - name : Generate storage link
+      run : php artisan storage:link
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@v4.3.5
       with:
